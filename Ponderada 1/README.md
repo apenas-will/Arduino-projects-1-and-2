@@ -40,6 +40,4 @@ O upload do _snippet_ anterior foi feito por meio da Arduino IDE, na Figura 1, p
 
 
 ## Resultados
-Os resultados da aplicação do código anterior estão expostos no vídeo a seguir:
-
-<video controls src="vídeo funcionamento.mp4" title="Resultado do Código"></video>
+Os resultados da aplicação do código anterior estão expostos no [`vídeo funcionamento.mp4`](/Ponderada%201/vídeo%20funcionamento.mp4).
