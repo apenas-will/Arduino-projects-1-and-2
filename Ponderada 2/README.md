@@ -1,4 +1,4 @@
-# Ponderada 1
+# Ponderada 2
 
 ## Objetivos
 Como objetivo desta ponderada, tem-se a elaboração de um código para placa arduino que faça com que um led externo à placa pisque em algum intervalo definido.
@@ -36,7 +36,7 @@ O upload do _snippet_ anterior foi feito por meio da Arduino IDE, na Figura 1, p
 <div align='center'>
 <sup>Figura 1 - Código na Arduino IDE</sup>
 
-![IDE arduino com código](<Image IDE.png>)
+![IDE arduino com código](<image IDE.png>)
 
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
